@@ -7,12 +7,12 @@ import 'firebase/firestore';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDesIGlKhp018EMfGpqxU0iNCz-_k1N5DY",
-  authDomain: "image-repository-bc0c4.firebaseapp.com",
-  projectId: "image-repository-bc0c4",
-  storageBucket: "image-repository-bc0c4.appspot.com",
-  messagingSenderId: "625370826099",
-  appId: "1:625370826099:web:86f4e38f10b82d6f2e7106"
+  apiKey: "AIzaSyB2leTmovf0G3e3Bj0M_WI1yYiTvQndhD8",
+  authDomain: "shopify-challenge-2022.firebaseapp.com",
+  projectId: "shopify-challenge-2022",
+  storageBucket: "shopify-challenge-2022.appspot.com",
+  messagingSenderId: "406493918860",
+  appId: "1:406493918860:web:8d4c19642b7a5ddf46ada9"
 };
 
 // Initialize Firebase
